@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+  <html>
+    <head>
+      <title> My Personal Intro</title>
+      <style>
+        body {
+          background-color: #D0CECA;
+        }
+
+        h1 {
+          color: #595A5C;
+        }
+
+        p {
+          color: #2A2E39;
+
+        }
+      </style>
+    </head>
+
+    <body>
+      <h1> My name is Matt James </h1>
+      <p>I am a CS major planning to pursue cyber security. I enjoy traveling and experiencing new things. I also like to work on cars in my spare time.</p>
+    </body>
+
+  </html>
